@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">打电话</string>
+
+    <string name="main_tips1">1.为防止老人误触,其中部分操作需要长按</string>
+    <string name="main_tips2">2.在信息列表增删数据则不需要长按</string>
+    <string name="main_tips3">3.左右滑动来切换收听电话者</string>
+    <string name="main_tips4">**请晚辈录入好信息之后再请长辈使用**</string>
+    <string name="main_tips_permission_title">手机权限申明</string>
+    <string name="main_tips_permission_message">1.手机内存权限,保存您的联系人信息,防止相册图片删除导致联系人信息异常;\n2.相机权限,可以获取相册照片以及摄像头照相\n3.电话权限,方便直接拨打电话;\n4.数据只在手机上,不上传服务器,防止数据泄露,具体地址在\"文件/A_Phone_utils\"中存放图片,当您不想使用APP的时候,可以在这里删除掉缓存的图片</string>
+    <string name="main_nothing">暂无数据,长按顶部按钮添加数据</string>
+    <string name="dialog_getInfo">正在获取数据</string>
+    <string name="item_name">姓名:</string>
+    <string name="item_tel">电话:</string>
+    <string name="item_address">地址:</string>
+    <string name="get_permission">开始获取权限</string>
+    <string name="jump3">3s后跳转</string>
+    <string name="jump2">2s后跳转</string>
+    <string name="jump1">1s后跳转</string>
+    <string name="jump">即将跳转</string>
+
+    <string name="click_tips">操作长按生效</string>
+
+    <string name="add_title">添加信息</string>
+    <string name="add_tips1">**请确保头像的清晰以及可辨认性,最好选择大头像**</string>
+    <string name="add_name">请输入姓名</string>
+    <string name="add_tel">电话,能够真的联系到你的电话</string>
+    <string name="add_address">地址,能够真的找得到你的地址</string>
+    <string name="add_tips2">同一手机号只能录入一次,再次录入会删除之前保存的信息\n**请确保信息的正确性**</string>
+    <string name="add_no_picture">请先选择一个头像</string>
+    <string name="add_no_name">请先输入名字</string>
+    <string name="add_no_tel">请先输入手机号</string>
+    <string name="add_no_address">请先输入地址</string>
+    <string name="dialog_add">正在添加数据</string>
+    <string name="add_success">添加成功</string>
+    <string name="add_fail">添加失败,请重试</string>
+    <string name="add_error_picture">选取图片异常,请重试</string>
+    <string name="add_sure">立即添加</string>
+
+    <string name="delete_title">删除指定用户</string>
+    <string name="delete_tips">1.删除之后该信息主界面不可见;\n\n2.删除之后还是可以重新添加的;\n\n3.删除只需要输入手机号即可.</string>
+    <string name="delete_tel">请输入要删除的手机号</string>
+    <string name="dialog_delete">正在删除数据</string>
+    <string name="delete_success">删除成功</string>
+    <string name="delete_fail">删除失败,请检查手机号是否存在</string>
+    <string name="delete_sure">立即删除</string>
+</resources>
